@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Global Quotes, Charts & Screeners",
+  "description": "Real-time global financial markets dashboard inspired by TradingView, featuring live quotes, interactive technical charts, heatmaps, screener, and economic calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
